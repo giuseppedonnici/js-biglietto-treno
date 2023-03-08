@@ -1,4 +1,22 @@
 body {
-    background-color: lightcoral;
+    background-color: rgb(143, 145, 243);
     text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(198, 253, 0);
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+#errore {
+    color: rgb(199, 2, 2);
+}
+
+#prezzo {
+    color: chartreuse;
 }
